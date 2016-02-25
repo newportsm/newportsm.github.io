@@ -4,6 +4,8 @@ body {
     text-align: center;
 }
 nav ul, footer ul {
+    width: 70%;
+    margin: 60px auto;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     display:inline;
     font-weight: bold;
