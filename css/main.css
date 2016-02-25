@@ -17,6 +17,7 @@ nav ul li, footer ul li {
     
 }
 .about {
+    width:800px;
     margin-top: 20px;
     margin-bottom: 20px;
     overflow:auto; 
