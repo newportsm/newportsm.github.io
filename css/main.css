@@ -18,6 +18,8 @@ nav ul li, footer ul li {
 }
 .about {
     width:800px;
+    height: auto;
+    position:relative;
     margin-top: 20px;
     margin-bottom: 20px;
     overflow:auto; 
