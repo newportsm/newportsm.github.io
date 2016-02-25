@@ -9,8 +9,8 @@ nav ul, footer ul {
     text-align: center;
 }
 nav ul li, footer ul li {
-    display: inline-block;
     margin: 20px;
+    text-align: center;
 }
 a {
     text-decoration: none;
