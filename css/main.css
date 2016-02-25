@@ -5,7 +5,6 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    display: inline-block;
     font-weight: bold;
     text-align: center;
 }
