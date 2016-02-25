@@ -18,7 +18,9 @@ nav ul li, footer ul li {
 }
 .about {
     margin-top: 20px;
+    margin-bottom: 20px;
     overflow:auto; 
+
 }
 .about-photo img{
     float: left;
