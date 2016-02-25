@@ -18,14 +18,18 @@ nav ul li, footer ul li {
 }
 .about {
     margin-top: 20px;
-    margin-botton: 20px;
-    overflow:auto;
+    overflow:auto; 
 }
-.about-photo {
+.about-photo img{
     float: left;
+    margin-right: 20px;
+    
 }
 .about-text {
-    float: left;
+    
+}
+.about p {
+    
 }
 
 a {
@@ -41,9 +45,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 img {
-    float: left;
     vertical-align: middle;
-    margin-right: 10px;
 }
 p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
