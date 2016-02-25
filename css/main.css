@@ -1,5 +1,7 @@
 body {
-  
+    width: 70%;
+    margin: 60px auto;
+    display: inline-block;
     text-align: center;
 }
 nav ul, footer ul {
@@ -27,7 +29,6 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    text-align:center;
 }
 footer {
     border-top: 1px solid #d5d5d5;
