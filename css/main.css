@@ -1,23 +1,16 @@
 body {
-    width: 70%;
     margin: 60px auto;
-    text-align: center;
+    width: 70%;
 }
 nav ul, footer ul {
-    width: 70%;
-    margin: 60px auto;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    display:inline;
+    padding: 0px;
+    list-style: none;
     font-weight: bold;
-    text-align: center;
 }
 nav ul li, footer ul li {
-    display:inline;
-    margin: 20px;
-}
-.nav a{
-    display:inline-block;
-    padding:10px;
+    display: inline;
+    margin-right: 20px;
 }
 a {
     text-decoration: none;
